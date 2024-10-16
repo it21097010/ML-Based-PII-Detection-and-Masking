@@ -27,10 +27,6 @@ To set up the project environment:
    pip install -r requirements.txt
    
 
-## Usage
-
-[Add specific instructions on how to use your project, run the scripts, etc.]
-
 ## Contributing
 
 Contributions to improve the project are welcome. Please follow the standard GitHub pull request process to submit your changes.
