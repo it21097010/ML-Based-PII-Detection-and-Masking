@@ -1,0 +1,4 @@
+datasets
+seqeval
+accelerate
+transformers
